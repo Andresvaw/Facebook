@@ -5,5 +5,17 @@
 }
 
 .main {
+  display: flex;
+  justify-content: start;
   padding: 72px 0 112px 0;
 }
+  .container-login {
+    margin: 0 auto;
+  }
+    .facebook__logo {
+      display: block;
+    }
+    .facebook__logo__img {
+      display: block;
+      margin: -28px;
+    }
